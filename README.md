@@ -92,4 +92,7 @@ See [ApiClientTest](src/test/php/ApiClientTest.php)
 [hash_algos]: http://php.net/manual/en/function.hash-algos.php
 
 
-<!-- GitAds-Verify: DH2WW5DQ3OG6VGPV8EXYYCZF176MKKKV -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/spring-hmac-rest@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/spring-hmac-rest@github)
+
+
