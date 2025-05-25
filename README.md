@@ -90,3 +90,6 @@ See [ApiClientTest](src/test/php/ApiClientTest.php)
 
 [hash_hmac]:  http://php.net/manual/en/function.hash-hmac.php
 [hash_algos]: http://php.net/manual/en/function.hash-algos.php
+
+
+<!-- GitAds-Verify: DH2WW5DQ3OG6VGPV8EXYYCZF176MKKKV -->
